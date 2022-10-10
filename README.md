@@ -58,7 +58,7 @@ Steps to follow in order to run this project locally on your machine
     ```
 4. Run servers
 
-    Open **Package.json** files from both *FRONTEND* and *BACKEND* folders and apply command
+    Open integrated terminal from **Package.json** files from both *FRONTEND* and *BACKEND* folders and apply command
     ```
     npm start
     ```
@@ -69,7 +69,7 @@ Steps to follow in order to run this project locally on your machine
     ```
     mongodb://localhost:27017/userData-test
     ```
-    You can run tests of both folders by opening **Package.json** file and running this command in terminal
+    You can run tests of both folders by opening integrated terminal from **Package.json** file and running this command in terminal
     ```
     npm test
     ```
